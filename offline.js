@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1558350795,
+	"version": 1558367110,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,6 +32,12 @@
 		"images/stagearea-sheet0.png",
 		"images/mainarea-sheet0.png",
 		"images/procarea-sheet0.png",
+		"images/command2up-sheet0.png",
+		"images/command3lamp-sheet0.png",
+		"images/command4turnleft-sheet0.png",
+		"images/command5turnright-sheet0.png",
+		"images/command6jump-sheet0.png",
+		"images/play-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
